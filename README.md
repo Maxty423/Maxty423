@@ -16,7 +16,7 @@ Sobre Mi...
 
 - ⚡ Dato Cuiroso **Me encanta el tiramisu**
 
-- ⚡  23/10
+- 🎂  23/10
 
 Debo agregar más info aquí...
 
