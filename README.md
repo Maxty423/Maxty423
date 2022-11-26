@@ -8,15 +8,27 @@ Sobre Mi...
 
 - 🇦🇷 Nacionalidad **Argentina**
 
+- 🎮 Juegos **CoDm, Minecraft, Guitarr hero, etc..**
+
 - ⚽ Veo El Mundial Desde Casa **Aguante ARG**
 
 - 💬 ¿Soy furry? **Si**
+
+- 🐺 Soy un... **Husky**
+
+- 🏔️ Me gusta... **Andar en trineo, y en snowboard**
 
 - 📫 ¿Como Contactarme? **Maxty423#2131** en Discord
 
 - ⚡ Dato Cuiroso **Me encanta el tiramisu**
 
 - 🎂  23/10
+
+- 🪐 Entre 14 a 18 años
+
+- 🥧 Postre favorito **tiramisú/Chocotorta**
+
+- 🍽️ comida favorita **tacos/pastas**
 
 Debo agregar más info aquí...
 
