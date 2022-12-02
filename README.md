@@ -1,7 +1,7 @@
 <div id="header" align="center">
 <img src="https://media.giphy.com/media/FlTDlog4SiPIY/giphy.gif" witdh="200" />
 <h1 align="center">Buenas Me Llamo Maxty</h1>
-<h3 align="center">Un gran jugador de Minecraft</h3>
+<h3 align="center">Puedes llamarme "max"</h3>
 </div>
 
 Sobre Mi...
