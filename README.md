@@ -10,8 +10,6 @@ Sobre Mi...
 
 - 🎮 Juegos **CoDm, Minecraft, Guitarr hero, etc..**
 
-- ⚽ Veo El Mundial Desde Casa **Aguante ARG**
-
 - 💬 ¿Soy furry? **Si**
 
 - 🐺 Soy un... **Husky**
