@@ -8,7 +8,7 @@ Sobre Mi...
 
 - 🇦🇷 Nacionalidad **Argentina**
 
-- 🎮 Juegos **CoDm, Minecraft, Guitarr hero, etc..**
+- 🎮 Juegos **VRChat, Minecraft, Assassin's creed II, etc..**
 
 - 💬 ¿Soy furry? **Si**
 
@@ -16,13 +16,13 @@ Sobre Mi...
 
 - 🏔️ Me gusta... **Andar en trineo, y en snowboard**
 
-- 📫 ¿Como Contactarme? **Maxty423#2131** en Discord
+- 📫 ¿Como Contactarme? **.maxty** en Discord
 
 - ⚡ Dato Cuiroso **Me encanta el tiramisu**
 
 - 🎂  23/10
 
-- 🪐 Entre 14 a 18 años
+- 🪐 Entre 15 a 18 años
 
 - 🥧 Postre favorito **tiramisú/Chocotorta**
 
