@@ -8,7 +8,7 @@ Sobre Mi...
 
 - 🇦🇷 Nacionalidad **Argentina**
 
-- 🎮 Juegos **VRChat, Minecraft, Assassin's creed II, etc..**
+- 🎮 Juegos **VRChat, Minecraft, Assassin's creed, etc..**
 
 - 💬 ¿Soy furry? **Si**
 
