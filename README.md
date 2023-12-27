@@ -10,25 +10,19 @@ Sobre Mi...
 
 - 🎮 Juegos **VRChat, Minecraft, Assassin's creed, etc..**
 
-- 💬 ¿Soy furry? **Si**
+- 💬 Soy furro :P
 
-- 🐺 Soy un... **Husky**
+- 🐺 Furs especies **Husky/Irbis**
 
-- 🏔️ Me gusta... **Andar en trineo, y en snowboard**
+- 🏔️ Gustos **Tocar la Bateria, y hacer snowboard**
 
-- 📫 ¿Como Contactarme? **.maxty** en Discord
-
-- ⚡ Dato Cuiroso **Me encanta el tiramisu**
+- 📫 ¿Como Contactarme? **.maxty** en Discord o @Maxty en Telegram
 
 - 🎂  23/10
 
-- 🪐 Entre 15 a 18 años
+- 🪐 Entre 16 a 20 años
 
-- 🥧 Postre favorito **tiramisú/Chocotorta**
-
-- 🍽️ comida favorita **tacos/pastas**
-
-Debo agregar más info aquí...
+- 🥁 Hobbies: **Baterista/Videojuegos/Edicion**
 
 
 <h3 align="left">Conecta Conmigo:</h3>
