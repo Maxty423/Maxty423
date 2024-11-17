@@ -1,28 +1,15 @@
 <div id="header" align="center">
 <img src="https://media.giphy.com/media/FlTDlog4SiPIY/giphy.gif" witdh="200" />
 <h1 align="center">Buenas Me Llamo Maxty</h1>
-<h3 align="center">Puedes llamarme "max"</h3>
 </div>
 
-Sobre Mi...
+- 🇦🇷
 
-- 🇦🇷 Nacionalidad **Argentina**
-
-- 🎮 Juegos **VRChat, Minecraft, Assassin's creed, etc..**
-
-- 💬 Soy furro :P
+- 💬 furro
 
 - 🐺 Furs especies **Husky/Irbis**
 
-- 🏔️ Gustos **Tocar la Bateria, y hacer snowboard**
-
-- 📫 ¿Como Contactarme? **.maxty** en Discord o @Maxty en Telegram
-
-- 🎂  23/10
-
-- 🪐 Entre 16 a 20 años
-
-- 🥁 Hobbies: **Baterista/Videojuegos/Edicion**
+- 🥁 Hobb: **Baterista/Videojuegos/Edicion**
 
 
 <h3 align="left">Conecta Conmigo:</h3>
