@@ -1,23 +1,21 @@
-<div id="header" align="center">
-<img src="https://media.giphy.com/media/FlTDlog4SiPIY/giphy.gif" witdh="200" />
-<h1 align="center">Buenas Me Llamo Maxty</h1>
-</div>
+<h1 align="center">Hi 👋, I'm Maxty</h1>
+<h3 align="center">My code doesn't have errors; it just develops unexpected features.</h3>
 
-- 🇦🇷
+<p align="left"> <a href="https://twitter.com/furmaxty" target="blank"><img src="https://img.shields.io/twitter/follow/furmaxty?logo=twitter&style=for-the-badge" alt="furmaxty" /></a> </p>
 
-- 💬 furro
+- 👨‍💻 All of my projects are available at [(a editar)]((a editar))
 
-- 🐺 Furs especies **Husky/Irbis**
+- 📫 How to reach me **matiemasanto@gmail.com**
 
-- 🥁 Hobb: **Baterista/Videojuegos/Edicion**
+- ⚡ Fun fact **Did you know that when snow leopards sleep in the snow at extreme temperatures, they curl up and cover their noses and faces with their own furry tails to avoid freezing?**
 
-
-<h3 align="left">Conecta Conmigo:</h3>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/maxty423" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="maxty423" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/c/themaxtys" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/c/themaxtys" height="30" width="40" /></a>
-<a href="https://discord.gg/Maxty423#2131" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Maxty423#2131" height="30" width="40" /></a>
+<a href="https://twitter.com/furmaxty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="furmaxty" height="30" width="40" /></a>
+<a href="https://instagram.com/furmaxty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="furmaxty" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/furmaxty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="furmaxty" height="30" width="40" /></a>
+<a href="https://discord.gg/maxty423" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="maxty423" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages y herramientas:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
