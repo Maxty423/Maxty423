@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/furmaxty" target="blank"><img src="https://img.shields.io/twitter/follow/furmaxty?logo=twitter&style=for-the-badge" alt="furmaxty" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [(a editar)]((a editar))
+//- 👨‍💻 All of my projects are available at [(a editar)]((a editar))
 
 - 📫 How to reach me **matiemasanto@gmail.com**
 
