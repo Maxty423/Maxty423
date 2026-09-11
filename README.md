@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Maxty</h1>
+<h1 align="center">Hi, I'm Maxty</h1>
 <h3 align="center">My code doesn't have errors; it just develops unexpected features.</h3>
 
 <p align="left"> <a href="https://twitter.com/furmaxty" target="blank"><img src="https://img.shields.io/twitter/follow/furmaxty?logo=twitter&style=for-the-badge" alt="furmaxty" /></a> </p>
